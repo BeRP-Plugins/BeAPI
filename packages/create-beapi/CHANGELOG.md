@@ -95,6 +95,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 * **core:** added UI module to manifest ([ba49103](https://github.com/MCBE-Utilities/BeAPI/commit/ba49103be0e6f00709b177584f76cc8218eb84cf))
 * **database:** issue [#15](https://github.com/MCBE-Utilities/BeAPI/issues/15) ([60fa49f](https://github.com/MCBE-Utilities/BeAPI/commit/60fa49fc51d6181b5b8dc580e390b58a092dc267))
 * **versions:** bump to production ([58f1b83](https://github.com/MCBE-Utilities/BeAPI/commit/58f1b83f3150cdc63c02ace31f1aa621acf38951))
+* **templates:** prepare release ([656c1ee](https://github.com/MCBE-Utilities/BeAPI/commit/656c1ee72be151ef4177dafc654ed9e1112da564))
 
 
 ### Features
